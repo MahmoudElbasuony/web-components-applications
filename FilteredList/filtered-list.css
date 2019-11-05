@@ -1,0 +1,27 @@
+ 
+
+.filtered-list-input {
+    width: 100%;
+    text-align: center;
+    height: 4em;
+    font-size: 1.2em;
+    box-shadow: 0 0px 10px rgba(0, 0, 0, 0.24);
+    outline: none;
+    border: 0;
+}
+
+.filtered-list {
+    list-style: none;
+    padding: 0;
+}
+
+.filtered-list li {
+    height: 1.5em;
+    border: none;
+    font-size: 2em;
+    padding: 0.3em;
+    text-align: center;
+    color: #787878;
+    box-shadow: 0 0px 10px rgba(0, 0, 0, 0.24);
+    margin-bottom: 1em;
+}
